@@ -14,7 +14,7 @@ Picture from: https://canvas.nus.edu.sg/courses/22421/quizzes/1560/take (Registr
 ### Output
 * Line 1: One integer denoting the MAXIMUM value in array.
 * Line 2: One integer denoting the times of value update of m.
-* Line 2: One integer denoting the times of increment of i.
+* Line 3: One integer denoting the times of increment of i.
 
 ## Source Code
 Refer to: [main.cpp](https://github.com/ChenGuoE/maximum-value-in-linear-array/blob/main/main.cpp):
