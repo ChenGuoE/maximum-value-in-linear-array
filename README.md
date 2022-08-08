@@ -44,7 +44,7 @@ int main()
     int k,m,i;  
     
     // Declare vars (for debug use only):
-    int NumIncrement_i=0, NumUpdate_m=0;
+    // int NumIncrement_i=0, NumUpdate_m=0;
     
 	// Input k
 	cin >> k;
@@ -86,12 +86,12 @@ int main()
 				m = l[i];
 				
 				// times of value update of m + 1
-				NumUpdate_m = NumUpdate_m + 1; 
+				// NumUpdate_m = NumUpdate_m + 1; 
 			}
 			// when l[i] <= m, do nothing, go to loop again.
 		}
 		// times of increment of i + 1
-		NumIncrement_i = NumIncrement_i + 1;
+		// NumIncrement_i = NumIncrement_i + 1;
 	}
 
 }
