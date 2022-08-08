@@ -22,7 +22,7 @@ int main()
     int k,m,i;  
     
     // Declare vars (for debug use only):
-    int NumIncrement_i=0, NumUpdate_m=0;
+    // int NumIncrement_i=0, NumUpdate_m=0;
     
 	// Input k
 	cin >> k;
@@ -50,8 +50,8 @@ int main()
     		// when i == k, which means the program is finished
     		cout <<"Summary:"<<endl;
     		cout <<"The max value in array is "<< m << "." <<endl;
-    		cout << NumUpdate_m << " times value update of m." <<endl;
-			cout << NumIncrement_i << " times increment of i." <<endl;
+    		// cout << NumUpdate_m << " times value update of m." <<endl;
+		// cout << NumIncrement_i << " times increment of i." <<endl;
     		// program finishes here.
     		return 0; 
 		} 
@@ -69,7 +69,7 @@ int main()
 			// when l[i] <= m, do nothing, go to loop again.
 		}
 		// times of increment of i + 1
-		NumIncrement_i = NumIncrement_i + 1;
+		// NumIncrement_i = NumIncrement_i + 1;
 	}
 
 }
