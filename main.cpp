@@ -1,14 +1,13 @@
 /**
- *  @file     /main.cpp						*
- *  @brief    This .cpp source code could generate keys to Question 9-11	*
- *  		  aiming at finding the MAXIMUM value in a linear array			*
- *  Details.  Github:														*	
- *  			>https://github.com/ChenGuoE/maximum-value-in-linear-array	*											*
- *  @author   Chen Guoyi (A0262311W)										*
- *  @email    Guoyi@comp.nus.edu.sg											*
- *  @version  1.0.1															*
- *  @date     9 Aug 2022, 0100 UTC-8										*
- *  @license  GNU General Public License (GPL) 								*
+ *  @file     /main.cpp
+ *  @brief    This .cpp source code could generate keys to Question 9-11, aiming at finding the MAXIMUM value in a linear array
+ *  Details.  Github:
+ *  			>https://github.com/ChenGuoE/maximum-value-in-linear-array
+ *  @author   Chen Guoyi (A0262311W)
+ *  @email    Guoyi@comp.nus.edu.sg
+ *  @version  1.0.1
+ *  @date     9 Aug 2022, 0100 UTC-8
+ *  @license  GNU General Public License (GPL)
  */
 
 // head
