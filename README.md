@@ -2,9 +2,22 @@
 This .cpp source code could find out the MAXIMUM value in a linear array
 
 ## Flowchart
+![image](https://github.com/ChenGuoE/maximum-value-in-linear-array/blob/main/Lecture%20Resource/flowchart.png)
+Picture from: https://canvas.nus.edu.sg/courses/22421/quizzes/1560/take (Registration Required)
+
+## Format of IO
+
+### Input
+* Line 1: One space-separated integers: k.
+* Line 2: k space-separated integers: array l[].
+
+### Output
+* Line 1: One integer denoting the MAXIMUM value in array.
+* Line 2: One integer denoting the times of value update of m.
+* Line 2: One integer denoting the times of increment of i.
 
 ## Source Code
-
+Refer to: [main.cpp](https://github.com/ChenGuoE/maximum-value-in-linear-array/blob/main/main.cpp):
 ```cpp
 /**
  *  @file     /main.cpp
