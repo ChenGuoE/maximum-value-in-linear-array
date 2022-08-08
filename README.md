@@ -1,4 +1,4 @@
-# maximum-value-in-linear-array
+# Maximum Value in Linear Array
 This .cpp source code could find out the MAXIMUM value in a linear array
 
 ## Flowchart
